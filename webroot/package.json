@@ -1,0 +1,14 @@
+{
+  "name": "just-do-it",
+  "version": "0.0.1",
+  "description": "having a go at a mean app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MS-WIT",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
